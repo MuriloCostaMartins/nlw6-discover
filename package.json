@@ -1,0 +1,21 @@
+{
+  "name": "npm-6-discover",
+  "version": "1.0.0",
+  "description": "Sexta edição da NLW da Rocketseat - Evento de Programação",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "keywords": [
+    "nlw",
+    "programming",
+    "rocketseat",
+    "evento"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
